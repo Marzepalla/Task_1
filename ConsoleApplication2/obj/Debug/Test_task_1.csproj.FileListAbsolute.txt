@@ -6,3 +6,6 @@ e:\my documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplicati
 e:\my documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Test_task_1.csproj.GenerateResource.Cache
 e:\my documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Test_task_1.exe
 e:\my documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Test_task_1.pdb
+E:\My Documents\GitHub\Task_1\ConsoleApplication2\bin\Debug\Test_task_1.exe.config
+E:\My Documents\GitHub\Task_1\ConsoleApplication2\obj\Debug\Test_task_1.exe
+E:\My Documents\GitHub\Task_1\ConsoleApplication2\obj\Debug\Test_task_1.pdb
